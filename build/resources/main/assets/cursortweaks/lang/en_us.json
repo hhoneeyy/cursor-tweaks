@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.cursortweaks.option.dropdownChoice.@PrefixText": "Cursor Options",
+  "text.autoconfig.cursortweaks.option.dropdownChoice": "Choose cursor mode",
+  "text.autoconfig.cursortweaks.option.dropdownChoice.@Tooltip": "cursor memory = remembers last cursor position in inventory, customposition = !! RECORD CURSOR POSITION FIRST !! then cursor will always go to the last recorded position in inventory",
+  "text.autoconfig.cursortweaks.option.recordCursorStaticPosition": "Records the cursor position for custom position mode",
+  "text.autoconfig.cursortweaks.option.recordCursorStaticPosition.@Tooltip": "Turn off after recording to use the recorded position"
+}
